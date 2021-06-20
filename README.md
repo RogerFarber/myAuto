@@ -1,4 +1,4 @@
-# Demo Webhuioosfgzsok hered
+# Demo Webhugzsok hered
 
 Example Maven project generated using `maven-archetype-quickstart`
 
