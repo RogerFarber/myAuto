@@ -1,4 +1,4 @@
-# Demo Webhook ighered
+# Demo Webhook hered
 
 Example Maven project generated using `maven-archetype-quickstart`
 
